@@ -1,0 +1,5 @@
+PyMuPDF==1.26.0
+fpdf==1.7.2
+neo4j==5.28.1
+openai==1.82.0
+python-dotenv==1.1.0
